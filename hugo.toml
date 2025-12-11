@@ -1,0 +1,12 @@
+baseURL = "hw4090-create.github.io/"
+languageCode = 'en-us'
+title = 'Netizen of Guide to Preserving Github Repositories'
+theme = "hugo-book"
+
+enableGitInfo = true
+disableKinds = ['taxonomy', 'taxonomyTerm']
+
+[params]
+  BookTheme = 'auto'      
+  BookToC = true         
+  BookSection = 'docs'   
