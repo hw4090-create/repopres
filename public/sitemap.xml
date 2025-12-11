@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>//localhost:1313/docs/1.1-introduction/institution/</loc>
+  </url><url>
+    <loc>//localhost:1313/docs/decision-guide/</loc>
+  </url><url>
+    <loc>//localhost:1313/docs/first-step/</loc>
+  </url><url>
+    <loc>//localhost:1313/docs/how-to-get-more-involved/</loc>
+  </url><url>
+    <loc>//localhost:1313/docs/introduction/</loc>
+  </url><url>
+    <loc>//localhost:1313/docs/local-solution/</loc>
+  </url><url>
+    <loc>//localhost:1313/docs/p2p-software-sharing-communities/</loc>
+  </url><url>
+    <loc>//localhost:1313/docs/software-heritage/</loc>
+  </url><url>
+    <loc>//localhost:1313/docs/</loc>
+  </url><url>
+    <loc>//localhost:1313/</loc>
+  </url>
+</urlset>
