@@ -1,3 +1,8 @@
+---
+title: "First steps: Evaluating"
+weight: 2
+---
+
 **First steps: Evaluating**
 
 Before beginning the archival process, ask yourself fundamental questions about your goals and the repository’s significance.

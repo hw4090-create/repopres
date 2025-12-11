@@ -1,3 +1,8 @@
+---
+title: "Local Solution"
+weight: 4
+---
+
 **Local Solution:**
 
 - Link to that MackinationsAI or make our own that has powershell commands and bash commands
@@ -6,3 +11,5 @@
   - Tasks for Level 2
   - Tasks for Level 3
   - Tasks for Level 4
+
+![Local Solution](/img/local-solution.png)

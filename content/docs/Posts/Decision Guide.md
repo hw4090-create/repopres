@@ -1,3 +1,8 @@
+---
+title: "Decision Guide"
+weight: 3
+---
+
 **Decision Guide: Preservation Resources and Destinations:**
 
 Depending on who you are and the skills you have, you may decide to preserve source code locally, through an organization like Software Heritage, or through your institution’s digital preservation system. There are pros and cons to each of these options:

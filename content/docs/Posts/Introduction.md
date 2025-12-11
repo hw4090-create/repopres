@@ -1,3 +1,8 @@
+---
+title: "Introduction"
+weight: 1
+---
+
 **Introduction:** 
 
 This is a decision guide for preserving a github repository. There are many approaches to doing this, with varying degrees of effort, difficulty, longevity, and dependability. The following guide outlines three main methods for preserving source code found on [github.com](http://github.com). 
