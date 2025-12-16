@@ -1,5 +1,4 @@
-baseURL = "https://hw4090-create.github.io/repopres/"
-<<<<<<< HEAD
+baseURL = "baseURL = "https://hw4090-create.github.io/Netizen-s-Guide-to-Preserving-Github-Repositories/"
 languageCode = 'en-us'
 title = 'Netizen of Guide to Preserving Github Repositories'
 theme = "hugo-book"
@@ -11,7 +10,6 @@ disableKinds = ['taxonomy', 'taxonomyTerm']
   BookTheme = 'auto'      
   BookToC = true         
   BookSection = 'docs'   
-=======
 title   = "Netizen's Guide to Preserving Github Repositories"
 theme   = "hugo-book"
 
