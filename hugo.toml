@@ -1,4 +1,5 @@
 baseURL = "https://hw4090-create.github.io/repopres/"
+<<<<<<< HEAD
 languageCode = 'en-us'
 title = 'Netizen of Guide to Preserving Github Repositories'
 theme = "hugo-book"
@@ -10,3 +11,27 @@ disableKinds = ['taxonomy', 'taxonomyTerm']
   BookTheme = 'auto'      
   BookToC = true         
   BookSection = 'docs'   
+=======
+title   = "Netizen's Guide to Preserving Github Repositories"
+theme   = "hugo-book"
+
+defaultContentLanguage         = "en"
+defaultContentLanguageInSubdir = true
+
+[params]
+  BookSection = "docs" 
+  BookTheme   = "auto"
+  BookSearch  = true
+
+[languages]
+
+  [languages.en]
+    languageName = "English"
+    weight       = 1
+    contentDir   = "content/en"
+
+  [languages.zh]
+    languageName = "中文"
+    weight       = 2
+    contentDir   = "content/zh"
+>>>>>>> ven-based
