@@ -3,7 +3,7 @@ title: "Institution"
 weight: 6
 ---
 
-**Institution**
+## **Institution**
 
 This section is dedicated to preservation professionals that are looking for guidance in archiving software-based media in their cultural institution. For this section, we interviewed Jonathan Farbowitz (digital preservationist at the Metropolitan Museum of Art), Mark Hellar (creative technology consultant and media conservationist at SFMoMA), and Emma Dickson (digital conservationist and creative technologist). From these interviews, we got a sense of how they work with existing DAMS and metadata standards within the archival software that are already in use. Please note that these interviews are all from digital preservationists working with software-based artworks, which come with unique complications and oversights. Below are some considerations you may want to consider. 
 
