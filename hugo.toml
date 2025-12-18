@@ -1,6 +1,7 @@
-baseURL = "https://hw4090-create.github.io/repopres/"
-title   = "Netizen's Guide to Preserving Github Repositories"
-theme   = "hugo-book"
+baseURL = "https://venqiu.github.io/repopres/"
+languageCode = 'en-us'
+title = 'Netizen of Guide to Preserving Github Repositories'
+theme = "hugo-book"
 
 defaultContentLanguage         = "en"
 defaultContentLanguageInSubdir = true
